@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Story book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos esse tempore iusto perferendis eligendi!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1731999472~exp=1732003072~hmac=f86e8d69cd9204da1b67ca105200cf2d8b3b426e74d8a06e168cade05f5022d3&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Entertainment book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos esse tempore iusto perferendis eligendi!",
+        "price": 0,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1731999472~exp=1732003072~hmac=f86e8d69cd9204da1b67ca105200cf2d8b3b426e74d8a06e168cade05f5022d3&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Sports book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos esse tempore iusto perferendis eligendi!",
+        "price": 0,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1731999472~exp=1732003072~hmac=f86e8d69cd9204da1b67ca105200cf2d8b3b426e74d8a06e168cade05f5022d3&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Music book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos esse tempore iusto perferendis eligendi!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1731999472~exp=1732003072~hmac=f86e8d69cd9204da1b67ca105200cf2d8b3b426e74d8a06e168cade05f5022d3&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Maths book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos esse tempore iusto perferendis eligendi!",
+        "price": 0,
+        "category": "Study",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1731999472~exp=1732003072~hmac=f86e8d69cd9204da1b67ca105200cf2d8b3b426e74d8a06e168cade05f5022d3&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Dance book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos esse tempore iusto perferendis eligendi!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1731999472~exp=1732003072~hmac=f86e8d69cd9204da1b67ca105200cf2d8b3b426e74d8a06e168cade05f5022d3&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Yoga book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos esse tempore iusto perferendis eligendi!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1731999472~exp=1732003072~hmac=f86e8d69cd9204da1b67ca105200cf2d8b3b426e74d8a06e168cade05f5022d3&w=740"
+    }
+]
